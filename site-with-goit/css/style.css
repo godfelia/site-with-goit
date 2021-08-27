@@ -1,0 +1,150 @@
+body
+{
+    background-color: #212529;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+
+.profesion
+{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+margin-bottom: 20px;
+}
+
+.name
+{font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+}
+
+.main-container
+{
+border-radius: 20px 10px 10px 20px;
+display: flex;
+flex-direction: row-reverse;
+width: 1200px;
+background-color: #dadada;
+margin: auto;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+
+.discription
+{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+margin-bottom: 40px;
+color: #2C1B1D;}
+
+.main
+{
+    
+    padding:100px 90px;}
+
+
+.vertical-bracket
+{
+color: black;   
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;}
+
+
+.sidebarsection
+{ 
+
+border-radius: 10px 0 0 10px;
+font-style: normal;
+font-weight: normal;
+line-height: 24px;
+font-size: 15.5px;
+padding: 15px;
+background-color: #1E2939;
+width: 375px;
+}
+
+.userphoto
+{
+border-radius: 10px;
+}
+
+.letter-type
+{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+margin-left: 17px;
+color: #dadada;
+}
+
+.company-name
+{
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color:#c1121f;
+}
+
+.work-ex
+{margin-bottom: 15px;}
+
+.work-duties
+{  
+margin: 0px;
+color: #2c2c30;
+font-style: normal;
+font-weight: normal;
+font-size: 15.5px;
+line-height: 24px;
+padding: 18px;
+}
+.work-time
+{
+margin: 0px;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+color: black;
+}
+
+.links
+{
+color:#727983;
+}
+
+.ul-txt
+{
+color: #c1121f;
+}
+
+.ul-items
+{color: #dadada;}
+
+.sidebar-txt
+{
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+margin-left: 17.5px;
+ margin:20px 0px 5px 17px; /* відступ зі сторони */
+color: #dadada;
+}
+
+.sidebar-containers
+{
+margin: 20px;
+padding-bottom: 10px;
+}
